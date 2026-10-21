@@ -1,0 +1,2 @@
+# rivalstxtpack
+texture pack rivals
